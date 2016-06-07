@@ -22,8 +22,9 @@ Use the java basic libarary
 ## Custom class
 CaculationFrame.java, CircuitAnlysis.java, EditI.java, EditR.java, FileChooser.java, FileWirte.java, Icurrent.java, IcurrentDraw.java, Line1.java, LineDraw.java, PaintAll.java, Resistor.java, TextArea.java, UserInstruction.java, Voltage.java, VoltageDraw.java, WireDraw.java
 
-
-
+<p align="center">
+  <img src="JavaApplication.gif" />
+</p>
 
 ## License
 
